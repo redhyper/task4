@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53e68dd8-d4e1-4515-878d-f5eeec067fa2" name="Default Changelist" comment="" />
+    <list default="true" id="53e68dd8-d4e1-4515-878d-f5eeec067fa2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/settings.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YOo1swUbu7PPbZ4JsJHkVwxpKF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mainApp" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -69,6 +78,7 @@
       <workItem from="1582893863449" duration="1685000" />
       <workItem from="1582895610850" duration="5270000" />
       <workItem from="1582907157110" duration="474000" />
+      <workItem from="1582909763064" duration="2152000" />
     </task>
     <servers />
   </component>
@@ -76,14 +86,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="681" y="305" width="615" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582909928928">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="681" y="305" width="615" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.948@67.27.1853.948" timestamp="1582909928928" />
     <state x="290" y="197" width="424" height="513" key="FileChooserDialogImpl" timestamp="1582888941202">
       <screen x="67" y="27" width="891" height="939" />
     </state>
     <state x="290" y="197" width="424" height="513" key="FileChooserDialogImpl/67.27.891.939@67.27.891.939" timestamp="1582888941202" />
-    <state x="67" y="55" width="653" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1582907190176">
-      <screen x="67" y="27" width="653" height="373" />
+    <state x="453" y="362" width="653" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1582909762312">
+      <screen x="67" y="27" width="1853" height="948" />
     </state>
-    <state x="453" y="362" key="com.intellij.ide.util.TipDialog/67.27.1853.948@67.27.1853.948" timestamp="1582893864025" />
+    <state x="453" y="362" key="com.intellij.ide.util.TipDialog/67.27.1853.948@67.27.1853.948" timestamp="1582909762312" />
     <state x="67" y="55" width="653" height="345" key="com.intellij.ide.util.TipDialog/67.27.653.373@67.27.653.373" timestamp="1582907190176" />
     <state x="253" y="359" key="com.intellij.ide.util.TipDialog/67.27.891.939@67.27.891.939" timestamp="1582895612089" />
   </component>
